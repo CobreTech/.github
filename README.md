@@ -8,7 +8,7 @@
   </p>
 
   <p align="center">
-    📍 <em>Calama, Región de Antofagasta, Chile 🇨🇱</em>
+    <img src="https://api.iconify.design/lucide:map-pin.svg?color=%23ea580c" width="16" height="16" align="center" /> <em>Calama, Región de Antofagasta, Chile</em>
   </p>
 
   <!-- Badges -->
@@ -25,21 +25,21 @@
 
 ---
 
-### 💡 Sobre CobreTech
+### <img src="https://api.iconify.design/lucide:building-2.svg?color=%23ea580c" width="22" height="22" align="center" /> Sobre CobreTech
 
 **CobreTech** diseña e implementa soluciones de software de alto impacto orientadas a digitalizar y optimizar procesos reales de negocio e industria. Conectamos la gestión operativa en terreno con plataformas web modernas y aplicaciones móviles sincronizadas en tiempo real.
 
-- ⚙️ **Enfoque:** Arquitecturas escalables, interfaces intuitivas y trazabilidad integral de operaciones.
-- 🎯 **Soluciones:** Intranets de gestión, control de inventario, seguimiento de producción y flujos QR.
+- <img src="https://api.iconify.design/lucide:check-circle-2.svg?color=%23ea580c" width="16" height="16" align="center" /> **Enfoque:** Arquitecturas escalables, interfaces intuitivas y trazabilidad integral de operaciones.
+- <img src="https://api.iconify.design/lucide:check-circle-2.svg?color=%23ea580c" width="16" height="16" align="center" /> **Soluciones:** Intranets de gestión, control de inventario, seguimiento de producción y flujos QR.
 
 ---
 
-### 🚀 Ecosistema de Proyectos
+### <img src="https://api.iconify.design/lucide:layers.svg?color=%23ea580c" width="22" height="22" align="center" /> Ecosistema de Proyectos
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 <a href="https://github.com/CobreTech/CobreWash-web">CobreWash Web</a></h3>
+      <h3 align="center"><img src="https://api.iconify.design/lucide:globe.svg?color=%23ea580c" width="20" height="20" align="center" /> <a href="https://github.com/CobreTech/CobreWash-web">CobreWash Web</a></h3>
       <p align="center">
         <em>Plataforma web operacional para Lavandería El Cobre</em>
       </p>
@@ -51,7 +51,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📱 <a href="https://github.com/CobreTech/CobreWash-app">CobreWash App</a></h3>
+      <h3 align="center"><img src="https://api.iconify.design/lucide:smartphone.svg?color=%23ea580c" width="20" height="20" align="center" /> <a href="https://github.com/CobreTech/CobreWash-app">CobreWash App</a></h3>
       <p align="center">
         <em>Aplicación móvil Android para operaciones en terreno</em>
       </p>
@@ -67,7 +67,7 @@
 
 ---
 
-### 🛠️ Stack Tecnológico
+### <img src="https://api.iconify.design/lucide:terminal.svg?color=%23ea580c" width="22" height="22" align="center" /> Stack Tecnológico
 
 <div align="center">
 
@@ -84,7 +84,7 @@
 
 ---
 
-### 👥 Equipo & Fundadores
+### <img src="https://api.iconify.design/lucide:users.svg?color=%23ea580c" width="22" height="22" align="center" /> Equipo & Fundadores
 
 <table>
   <tr>
@@ -116,5 +116,5 @@
 ---
 
 <div align="center">
-  <sub>Desarrollado con innovación por <b>CobreTech</b> · Impulsando la tecnología en el norte de Chile 🇨🇱</sub>
+  <sub>Desarrollado con ingeniería e innovación por <b>CobreTech</b> · Soluciones de software para la gestión operacional</sub>
 </div>
