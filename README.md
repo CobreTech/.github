@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6B2D00,B87333,D97706,F59E0B&height=220&section=header&text=COBRETECH&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingenier%C3%ADa%20de%20Software%20%26%20Soluciones%20Digitales&descAlignY=58&descSize=20&descColor=fed7aa" width="100%" alt="CobreTech Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C2D12,40:B87333,70:EA580C,100:F97316&height=220&section=header&text=COBRETECH&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingenier%C3%ADa%20de%20Software%20y%20Soluciones%20Digitales&descAlignY=58&descSize=20&descColor=ffedd5" width="100%" alt="CobreTech Banner" />
 
   <p align="center">
     <strong>Desarrollo de software moderno, plataformas web y aplicaciones móviles orientadas a la optimización operacional e industrial.</strong>
@@ -13,7 +13,7 @@
 
   <!-- Badges -->
   <p align="center">
-    <a href="https://github.com/CobreTech"><img src="https://img.shields.io/badge/Org-CobreTech-b87333?style=for-the-badge&logo=github&logoColor=white" alt="Org" /></a>
+    <a href="https://github.com/CobreTech"><img src="https://img.shields.io/badge/Org-CobreTech-EA580C?style=for-the-badge&logo=github&logoColor=white" alt="Org" /></a>
     <a href="https://github.com/CobreTech/CobreWash-web"><img src="https://img.shields.io/badge/Next.js_16-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
     <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
     <a href="https://github.com/CobreTech/CobreWash-app"><img src="https://img.shields.io/badge/Kotlin_Android-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
@@ -97,7 +97,7 @@
       <sub>Co-Founder & Full-Stack Developer</sub>
       <br /><br />
       <a href="https://github.com/RyuDakai"><img src="https://img.shields.io/badge/GitHub-RyuDakai-181717?style=flat-square&logo=github" alt="GitHub RyuDakai" /></a>
-      <a href="https://ryudakai-portafolio.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-Web-b87333?style=flat-square&logo=googlechrome&logoColor=white" alt="Portafolio RyuDakai" /></a>
+      <a href="https://ryudakai-portafolio.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-Web-EA580C?style=flat-square&logo=googlechrome&logoColor=white" alt="Portafolio RyuDakai" /></a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Cyphound">
@@ -108,7 +108,7 @@
       <sub>Co-Founder & Full-Stack Developer</sub>
       <br /><br />
       <a href="https://github.com/Cyphound"><img src="https://img.shields.io/badge/GitHub-Cyphound-181717?style=flat-square&logo=github" alt="GitHub Cyphound" /></a>
-      <a href="https://cyphound-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-Web-b87333?style=flat-square&logo=googlechrome&logoColor=white" alt="Portafolio Cyphound" /></a>
+      <a href="https://cyphound-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-Web-EA580C?style=flat-square&logo=googlechrome&logoColor=white" alt="Portafolio Cyphound" /></a>
     </td>
   </tr>
 </table>
