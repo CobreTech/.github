@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0c" />
+      <stop offset="50%" stop-color="#121217" />
+      <stop offset="100%" stop-color="#08080a" />
+    </linearGradient>
+    <linearGradient id="copperText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FCD34D" />
+      <stop offset="30%" stop-color="#F59E0B" />
+      <stop offset="70%" stop-color="#D97706" />
+      <stop offset="100%" stop-color="#B45309" />
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#92400E" stop-opacity="0.85" />
+      <stop offset="50%" stop-color="#D97706" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0.8" />
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#451A03" stop-opacity="0.7" />
+      <stop offset="50%" stop-color="#78350F" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#B45309" stop-opacity="0.6" />
+    </linearGradient>
+    <linearGradient id="glowCircle" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D97706" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#D97706" stop-opacity="0.0" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#27272a" stroke-width="0.8" stroke-opacity="0.3" />
+    </pattern>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1200" height="340" fill="url(#bgGrad)" />
+  <rect width="1200" height="340" fill="url(#grid)" />
+
+  <!-- Ambient Glow circles -->
+  <circle cx="600" cy="130" r="260" fill="url(#glowCircle)" />
+  <circle cx="180" cy="90" r="180" fill="url(#glowCircle)" />
+  <circle cx="1020" cy="180" r="200" fill="url(#glowCircle)" />
+
+  <!-- Organic Copper Waves at Bottom -->
+  <path d="M 0 265 Q 300 220 600 255 T 1200 245 L 1200 340 L 0 340 Z" fill="url(#wave2)" />
+  <path d="M 0 285 Q 350 240 700 275 T 1200 265 L 1200 340 L 0 340 Z" fill="url(#wave1)" />
+
+  <!-- Hexagonal Tech Logo Icon -->
+  <g transform="translate(600, 85)">
+    <!-- Outer hexagon -->
+    <polygon points="0,-34 30,-17 30,17 0,34 -30,17 -30,-17" fill="#18181b" stroke="#D97706" stroke-width="2.5" />
+    <!-- Inner copper core -->
+    <polygon points="0,-20 18,-10 18,10 0,20 -18,10 -18,-10" fill="url(#copperText)" />
+  </g>
+
+  <!-- Main Brand Title -->
+  <text x="600" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="52" font-weight="900" fill="url(#copperText)" text-anchor="middle" letter-spacing="8">COBRETECH</text>
+
+  <!-- Tagline -->
+  <text x="600" y="206" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#F4F4F5" text-anchor="middle" letter-spacing="4">INGENIERÍA DE SOFTWARE &amp; SOLUCIONES DIGITALES</text>
+
+  <!-- Subtitle Location -->
+  <text x="600" y="233" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#A1A1AA" text-anchor="middle" letter-spacing="2.5">📍 CALAMA · REGIÓN DE ANTOFAGASTA · CHILE 🇨🇱</text>
+</svg>
